@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\Navbar practice"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "15. flexbox practise",
+		"liveServer.settings.port": 5501,
+		"git.ignoreLimitWarning": true
+	}
+}
